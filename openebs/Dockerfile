@@ -1,1 +1,1 @@
-From docker.io/openebs/node-disk-manager-amd64:v0.4.5
+From sonarqube:7.4-community

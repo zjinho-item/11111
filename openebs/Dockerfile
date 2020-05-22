@@ -1,1 +1,1 @@
-From docker.io/sonarqube:7.4-community
+From wordpress:4.8-apache

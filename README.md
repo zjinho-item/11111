@@ -190,10 +190,7 @@ public class AlanServiceAddressSelector {
 #### 创建feign的bean
 
 ```java
-import com.cmcc.normandy.client.feign.service.ISpringCloudAppService;
-import com.cmcc.normandy.client.feign.service.ISpringCloudDevelopService;
-import com.cmcc.normandy.client.feign.service.ISpringCloudSourceService;
-import com.cmcc.normandy.common.utils.NormandyConfig;
+
 import feign.Feign;
 import feign.Feign.Builder;
 import feign.jackson.JacksonDecoder;

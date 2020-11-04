@@ -1,1 +1,1 @@
-From wordpress:4.8-apache
+From quay.io/coreos/flannel:v0.13.0

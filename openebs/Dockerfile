@@ -1,1 +1,1 @@
-From quay.io/coreos/flannel:v0.13.0
+From openjdk:8-jdk-alpine

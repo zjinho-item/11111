@@ -1,1 +1,1 @@
-From kubesphere/etcd:v3.3.12
+From coredns/coredns:1.6.9

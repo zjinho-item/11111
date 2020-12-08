@@ -1,1 +1,1 @@
-From coredns/coredns:1.6.9
+From kubesphere/kube-apiserver

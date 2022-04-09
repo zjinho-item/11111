@@ -1,1 +1,1 @@
-From kubesphere/kube-apiserver:v1.17.9
+From nacos/nacos-server:latest

@@ -1,1 +1,1 @@
-From nacos/nacos-server:latest
+From openjdk:8-jre

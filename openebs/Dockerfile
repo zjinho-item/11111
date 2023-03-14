@@ -1,1 +1,1 @@
-From creamysellotape0/mysql5.7
+From openjdk:8-jre
